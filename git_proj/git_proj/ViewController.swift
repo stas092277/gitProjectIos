@@ -18,6 +18,13 @@ class ViewController: UIViewController {
         print("all good")
         
         print("wonderful")
+        
+        doSomething()
+    }
+    
+    
+    func doSomething(){
+        print("do something")
     }
 
 
