@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     func doSomething() {
-        print("great")
+        print("some")
 
     }
 
