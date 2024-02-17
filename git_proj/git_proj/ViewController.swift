@@ -22,9 +22,9 @@ class ViewController: UIViewController {
         doSomething()
     }
     
-    
-    func doSomething(){
-        print("do something")
+    func doSomething() {
+        print("great")
+
     }
 
 
